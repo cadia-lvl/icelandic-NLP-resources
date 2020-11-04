@@ -4,15 +4,15 @@ This is an list of known tools and resources developed specifically to do lingui
 This list is categorized by task to increase clarity. Due to that, some multi-functional tools and toolkits might appear more than once in the list.
 If you notice a category or resource is missing or have suggestions on how to improve this list, please open a pull request.
 ## Contents
-* [Notable papers](#Notable-papers-and-reports-↑)
-* [Other resource collections](#Other-resource-collections-↑)
-* [Toolkits](#Toolkits-↑)
-* [Tokenization and text normalization](#Tokenization-and-text-normalization-↑)
-* [POS tagging](#POS-tagging-↑)
-* [Syntactic parsing](#Syntactic-parsing-↑)
-* [Grapheme-to-phoneme](#Grapheme-to-phoneme-↑)
-* [Stress analysis](#Stress-analysis-↑)
-## Notable papers and reports [↑](#Contents)
+* [Notable papers](#notable-papers-and-reports-)
+* [Other resource collections](#other-resource-collections-)
+* [Toolkits](#toolkits-)
+* [Tokenization and text normalization](#tokenization-and-text-normalization-)
+* [POS tagging](#pos-tagging-)
+* [Syntactic parsing](#syntactic-parsing-)
+* [Grapheme-to-phoneme](#grapheme-to-phoneme-)
+* [Stress analysis](#stress-analysis-)
+## Notable papers and reports [↑](#contents)
 * [Máltækniáætlun fyrir íslensku 2018-2022](https://www.stjornarradid.is/library/03-Verkefni/Menningarmal/M%C3%A1lt%C3%A6kni%C3%A1%C3%A6tlun.pdf) ([English version](https://clarin.is/media/uploads/mlt-en.pdf))
   * The project plan for an ongoing language technology programme funded by the Icelandic Ministry of Education.
   * [Short paper describing the programme](https://arxiv.org/pdf/2003.09244.pdf), note that the programme has been postponed by a year compared to the original plan.
