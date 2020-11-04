@@ -47,12 +47,12 @@ If you notice a category or resource is missing or have suggestions on how to im
 ## Syntactic parsing [↑](#Contents)
 * [Neural parsing pipeline for Icelandic](http://hdl.handle.net/20.500.12537/17)
   * [The GitHub repo for this project](https://github.com/antonkarl/iceParsingPipeline)
-* Greynir, [see above](#Greynir)
-* IceNLP, [see above](#IceNLP)
+* Greynir, [see above](#greynir)
+* IceNLP, [see above](#icenlp)
 ## Grapheme-to-phoneme [↑](#Contents)
 * [Icelandic pronunciation dictionary](https://github.com/cadia-lvl/SLT2018)
 * [Pronunciation dictionary editor](https://github.com/grammatek/pedi)
 * [Thrax G2P grammar for Icelandic](https://github.com/grammatek/g2p-thrax)
-* [LVL-tts-frontend](#LVL-tts-frontend)
+* [LVL-tts-frontend](#lvl-tts-frontend)
 ## Stress analysis [↑](#Contents)
-* [LVL-tts-frontend](#LVL-tts-frontend) performs stress analysis
+* [LVL-tts-frontend](#lvl-tts-frontend) performs stress analysis
