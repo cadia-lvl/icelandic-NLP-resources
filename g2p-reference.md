@@ -1,5 +1,6 @@
 This is a list of existing g2p repos, directions on how to get the respective models, and how to use these models to get phonemes.
 
+[Home](README.md)
 ## Table of Contents
 * [Specifications](#specifications)
 * [grammatek/g2p-lstm](#grammatekg2p-lstm)
