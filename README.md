@@ -19,12 +19,12 @@ If you notice a category or resource is missing or have suggestions on how to im
 * [Risamálheild: A Very Large Icelandic Text Corpus](https://www.aclweb.org/anthology/L18-1690.pdf)
   * Paper describing the Icelandic Gigaword Corpus, a tagged and lemmatized corpus containing over 10^9 tokens.
 * Please send a pull request with additions to this list.
-## Other resource collections [↑](#Contents)
+## Other resource collections [↑](#contents)
 * [CLARIN-IS](https://repository.clarin.is/repository/xmlui/)
   * The Icelandic branch of the CLARIN-ERIC language resource initiative. Contains information on and downloads for many tools and datasets.
 * [malfong.is](https://malfong.is)
   * List of language technology resources, maintained by Árnastofnun.
-## Toolkits [↑](#Contents)
+## Toolkits [↑](#contents)
 ### [Greynir](http://hdl.handle.net/20.500.12537/76)
   * Python 3 package which is capable of syntactic parsing, lemmatization, POS tagging, noun phrase inflection and more
   * [The GitHub repo for this project](https://github.com/mideind/GreynirPackage/releases/tag/2.6.1)
@@ -36,15 +36,15 @@ If you notice a category or resource is missing or have suggestions on how to im
 * TTS frontend designed to work with the [Merlin](https://github.com/CSTR-Edinburgh/merlin) speech synthesis system developed by [CSTR](http://www.cstr.ed.ac.uk/)
 * It contains a pronunciation dictionary, sequitur g2p model, stress analysis component and more. Unfortunately it does not include any documentation.
   * Developed by Anna Björk Nikulásdóttir at LVL
-## Tokenization and text normalization [↑](#Contents)
+## Tokenization and text normalization [↑](#contents)
 * [Icelandic tokenizer](https://github.com/mideind/Tokenizer)
 * [Textahaukur - text normalization toolkit](https://github.com/cadia-lvl/Icelandic-textnorm)
   * This seems to be in suspended development and claims to not be functional as of yet.
-## POS tagging [↑](#Contents)
+## POS tagging [↑](#contents)
 * [POS tagger based on ABLTagger](https://github.com/cadia-lvl/POS)
     * [Publication describing ABLTagger](https://www.aclweb.org/anthology/R19-1133/)
 * [The standard Icelandic fine-grained POS Tagset](https://drive.google.com/file/d/1mlQmYZ34ICeWYOdgGgj8Q2tPoWaGq8uK/view)
-## Syntactic parsing [↑](#Contents)
+## Syntactic parsing [↑](#contents)
 * [Neural parsing pipeline for Icelandic](http://hdl.handle.net/20.500.12537/17)
   * [The GitHub repo for this project](https://github.com/antonkarl/iceParsingPipeline)
 * Greynir, [see above](#greynir)
@@ -62,5 +62,5 @@ If you notice a category or resource is missing or have suggestions on how to im
 * [Module for preparing text data for TTS data collections ...](https://github.com/cadia-lvl/tts_data), [reference](g2p-reference.md#cadia-lvltts_data)
 * [Althingi ASR g2p](https://github.com/cadia-lvl/kaldi/tree/master/egs/althingi/s5/local), [reference](g2p-reference.md#althingis5)
 
-## Stress analysis [↑](#Contents)
+## Stress analysis [↑](#contents)
 * [LVL-tts-frontend](#lvl-tts-frontend) performs stress analysis
