@@ -51,16 +51,16 @@ If you notice a category or resource is missing or have suggestions on how to im
 * IceNLP, [see above](#icenlp)
 
 ## Grapheme-to-phoneme [↑](#contents)
-* [LSTM encoder-decoder sequence-to-sequence models for Icelandic](https://github.com/grammatek/g2p-lstm), [reference](g2p-reference#grammatekg2p-lstm)
+* [LSTM encoder-decoder sequence-to-sequence models for Icelandic](https://github.com/grammatek/g2p-lstm), [reference](g2p-reference.md#grammatekg2p-lstm)
 * [g2p-service](https://github.com/rkjaran/g2p-service) is a g2p web service.
-[reference](g2p-reference#rkjarang2p-service)
+[reference](g2p-reference.md#rkjarang2p-service)
 * [Icelandic pronunciation dictionary](https://github.com/cadia-lvl/SLT2018)
 * [Pronunciation dictionary editor](https://github.com/grammatek/pedi)
-* [Thrax G2P grammar for Icelandic](https://github.com/grammatek/g2p-thrax), [reference](g2p-reference##grammatekg2p-thrax)
+* [Thrax G2P grammar for Icelandic](https://github.com/grammatek/g2p-thrax), [reference](g2p-reference.md#grammatekg2p-thrax)
 * [LVL-tts-frontend](#lvl-tts-frontend)
-* [G2P - Atli Thor's g2p python module/pip package](https://github.com/atliSig/g2p), [reference](g2p-reference#atlisigg2p)
-* [Module for preparing text data for TTS data collections ...](https://github.com/cadia-lvl/tts_data), [reference](g2p-reference#cadia-lvltts_data)
-* [Althingi ASR g2p](https://github.com/cadia-lvl/kaldi/tree/master/egs/althingi/s5/local), [reference](g2p-reference#althingis5)
+* [G2P - Atli Thor's g2p python module/pip package](https://github.com/atliSig/g2p), [reference](g2p-reference.md#atlisigg2p)
+* [Module for preparing text data for TTS data collections ...](https://github.com/cadia-lvl/tts_data), [reference](g2p-reference.md#cadia-lvltts_data)
+* [Althingi ASR g2p](https://github.com/cadia-lvl/kaldi/tree/master/egs/althingi/s5/local), [reference](g2p-reference.md#althingis5)
 
 ## Stress analysis [↑](#Contents)
 * [LVL-tts-frontend](#lvl-tts-frontend) performs stress analysis
