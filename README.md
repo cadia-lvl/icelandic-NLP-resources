@@ -13,6 +13,7 @@ If you notice a category or resource is missing or have suggestions on how to im
 * [Syntactic parsing](#syntactic-parsing-)
 * [Grapheme-to-phoneme](#grapheme-to-phoneme-)
 * [Stress analysis](#stress-analysis-)
+* [Speech synthesis (TTS)](#Speech-synthesis-)
 
 ## Notable papers and reports [↑](#contents)
 * [Máltækniáætlun fyrir íslensku 2018-2022](https://www.stjornarradid.is/library/03-Verkefni/Menningarmal/M%C3%A1lt%C3%A6kni%C3%A1%C3%A6tlun.pdf) ([English version](https://clarin.is/media/uploads/mlt-en.pdf))
@@ -74,3 +75,7 @@ If you notice a category or resource is missing or have suggestions on how to im
 
 ## Stress analysis [↑](#contents)
 * [LVL-tts-frontend](#lvl-tts-frontend) performs stress analysis
+
+## Speech synthesis [↑](#contents)
+* [Unit selection recipe in Festival for Icelandic](https://github.com/cadia-lvl/unit-selection-festival)
+* [FastSpeech2 with support for the Talromur corpus](https://github.com/cadia-lvl/FastSpeech2)
