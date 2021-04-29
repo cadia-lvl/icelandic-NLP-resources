@@ -72,7 +72,7 @@ If you notice a category or resource is missing or have suggestions on how to im
 * [LSTM encoder-decoder sequence-to-sequence models for Icelandic](https://github.com/grammatek/g2p-lstm), [reference](g2p-reference.md#grammatekg2p-lstm)
 * [g2p-service](https://github.com/rkjaran/g2p-service) is a g2p web service.
 [reference](g2p-reference.md#rkjarang2p-service)
-* [Icelandic pronunciation dictionary](https://github.com/cadia-lvl/SLT2018)
+* [Icelandic pronunciation dictionary](https://github.com/grammatek/iceprondict)
 * [Pronunciation dictionary editor](https://github.com/grammatek/pedi)
 * [Thrax G2P grammar for Icelandic](https://github.com/grammatek/g2p-thrax), [reference](g2p-reference.md#grammatekg2p-thrax)
 * [LVL-tts-frontend](#lvl-tts-frontend)
