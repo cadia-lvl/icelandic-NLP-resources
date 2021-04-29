@@ -7,6 +7,7 @@ If you notice a category or resource is missing or have suggestions on how to im
 ## Contents
 * [Notable papers](#notable-papers-and-reports-)
 * [Other resource collections](#other-resource-collections-)
+* [Corpora](#corpora-)
 * [Toolkits](#toolkits-)
 * [Tokenization and text normalization](#tokenization-and-text-normalization-)
 * [POS tagging](#pos-tagging-)
@@ -29,6 +30,10 @@ If you notice a category or resource is missing or have suggestions on how to im
 * [malfong.is](https://malfong.is)
   * List of language technology resources, maintained by Árnastofnun.
 
+## Corpora [↑](#contents)
+* [Talrómur](http://hdl.handle.net/20.500.12537/104)
+  * A large public domain TTS corpus designed for research and development. Contains over 160 hours of studio-recorded prompted speech, divided between 8 speakers.
+
 ## Toolkits [↑](#contents)
 
 ### [Greynir](http://hdl.handle.net/20.500.12537/76)
@@ -49,6 +54,8 @@ If you notice a category or resource is missing or have suggestions on how to im
 * [Icelandic tokenizer](https://github.com/mideind/Tokenizer)
 * [Textahaukur - text normalization toolkit](https://github.com/cadia-lvl/Icelandic-textnorm)
   * This seems to be in suspended development and claims to not be functional as of yet.
+* [Regína normalizer](https://github.com/cadia-lvl/regina-normalizer)
+  * Regex-based text normalization in python. Currently in early stages of development.
 
 ## POS tagging [↑](#contents)
 * [POS tagger based on ABLTagger](https://github.com/cadia-lvl/POS)
