@@ -29,6 +29,8 @@ If you notice a category or resource is missing or have suggestions on how to im
   * The Icelandic branch of the CLARIN-ERIC language resource initiative. Contains information on and downloads for many tools and datasets.
 * [malfong.is](https://malfong.is)
   * List of language technology resources, maintained by Árnastofnun.
+* [Comprehensive list of language resources](language_resources.md)
+  * This list of over 100 Icelandic language technology resources was compiled by [@bjarnigithub](https://github.com/bjarnigithub) in the summer of 2021.
 
 ## Corpora [↑](#contents)
 * [Talrómur](http://hdl.handle.net/20.500.12537/104)
