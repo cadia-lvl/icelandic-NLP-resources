@@ -27,6 +27,8 @@ If you notice a category or resource is missing or have suggestions on how to im
 ## Other resource collections [↑](#contents)
 * [CLARIN-IS](https://repository.clarin.is/repository/xmlui/)
   * The Icelandic branch of the CLARIN-ERIC language resource initiative. Contains information on and downloads for many tools and datasets.
+* [SÍM homepage](https://icelandic-lt.gitlab.io/)
+  * Overview page for SÍM (the Icelandic Language Technology Consortium), which contains mirrors and descriptions for all Language Technology Programme projects.
 * [malfong.is](https://malfong.is)
   * List of language technology resources, maintained by Árnastofnun.
 * [Comprehensive list of language resources](language_resources.md)
