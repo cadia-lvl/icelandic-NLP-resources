@@ -90,3 +90,10 @@ If you notice a category or resource is missing or have suggestions on how to im
 ## Speech synthesis [↑](#contents)
 * [Unit selection recipe in Festival for Icelandic](https://github.com/cadia-lvl/unit-selection-festival)
 * [FastSpeech2 with support for the Talromur corpus](https://github.com/cadia-lvl/FastSpeech2)
+
+## European Language Grid [↑](#contents)
+* [Tokenizer](https://live.european-language-grid.eu/catalogue/tool-service/17480)
+* [IceNLP](https://live.european-language-grid.eu/catalogue/tool-service/17684)
+* [IceParser](https://live.european-language-grid.eu/catalogue/tool-service/17682)
+* [Faroese ABLTagger](https://live.european-language-grid.eu/catalogue/tool-service/18026)
+
