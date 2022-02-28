@@ -8,6 +8,7 @@ If you notice a category or resource is missing or have suggestions on how to im
 * [Notable papers](#notable-papers-and-reports-)
 * [Other resource collections](#other-resource-collections-)
 * [Corpora](#corpora-)
+* [European Language Grid Services](#elg-)
 * [Toolkits](#toolkits-)
 * [Tokenization and text normalization](#tokenization-and-text-normalization-)
 * [POS tagging](#pos-tagging-)
@@ -39,7 +40,7 @@ If you notice a category or resource is missing or have suggestions on how to im
   * A large public domain TTS corpus designed for research and development. Contains over 160 hours of studio-recorded prompted speech, divided between 8 speakers.
 
 
-## European Language Grid Services [↑](#contents)
+## European Language Grid Services [↑](#elg)
 * [Tokenizer](https://live.european-language-grid.eu/catalogue/tool-service/17480)
 * [IceNLP](https://live.european-language-grid.eu/catalogue/tool-service/17684)
 * [IceParser](https://live.european-language-grid.eu/catalogue/tool-service/17682)
