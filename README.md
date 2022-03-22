@@ -16,6 +16,7 @@ If you notice a category or resource is missing or have suggestions on how to im
 * [Grapheme-to-phoneme](#grapheme-to-phoneme-)
 * [Stress analysis](#stress-analysis-)
 * [Speech synthesis (TTS)](#Speech-synthesis-)
+* [Speech recognition (ASR)](#speech-recognition-)
 
 ## Notable papers and reports [↑](#contents)
 * [Máltækniáætlun fyrir íslensku 2018-2022](https://www.stjornarradid.is/library/03-Verkefni/Menningarmal/M%C3%A1lt%C3%A6kni%C3%A1%C3%A6tlun.pdf) ([English version](https://clarin.is/media/uploads/mlt-en.pdf))
@@ -38,6 +39,14 @@ If you notice a category or resource is missing or have suggestions on how to im
 ## Corpora [↑](#contents)
 * [Talrómur](http://hdl.handle.net/20.500.12537/104)
   * A large public domain TTS corpus designed for research and development. Contains over 160 hours of studio-recorded prompted speech, divided between 8 speakers.
+* [Samrómur](https://samromur.is/gagnasafn)
+  * An open and accessible speech recognition dataset with FLAC audio files, corresponding text and metadata.
+* [Icelandic broadcast speech](http://hdl.handle.net/20.500.12537/193)
+  * 193 hours of radio and TV data from the Icelandic National Broadcasting Service (RÚV).
+* [Spjallromur](http://hdl.handle.net/20.500.12537/187)
+  * Icelandic Conversational Speech
+* [Kennslurómur](http://hdl.handle.net/20.500.12537/171)
+  * Icelandic lectures with audio and corresponding text.
 
 
 ## European Language Grid Services [↑](#contents)
@@ -99,4 +108,16 @@ If you notice a category or resource is missing or have suggestions on how to im
 ## Speech synthesis [↑](#contents)
 * [Unit selection recipe in Festival for Icelandic](https://github.com/cadia-lvl/unit-selection-festival)
 * [FastSpeech2 with support for the Talromur corpus](https://github.com/cadia-lvl/FastSpeech2)
+
+## Speech recognition [↑](#contents)
+* [Ice-ASR](https://github.com/cadia-lvl/ice-asr)
+* [Alþingi](https://github.com/cadia-lvl/kaldi)
+  * [Just the recipe](https://github.com/cadia-lvl/althingi-asr)
+* [Samromur ASR](https://github.com/cadia-lvl/samromur-asr)
+  * Contains a vanilla recipe (base), subword modelling, and specialized
+    children and adolescent recipes
+* [alignment and segmentation](https://github.com/cadia-lvl/alignment-and-segmentation)
+  * Scripts to prepare RÚV TV data for alignment and segmentation to make an ASR dataset
+* [Tiro Speech Core](https://github.com/tiro-is/tiro-speech-core)
+* [Tal](https://tal.ru.is)
 
