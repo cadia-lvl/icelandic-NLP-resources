@@ -52,7 +52,7 @@ If you notice a category or resource is missing or have suggestions on how to im
 ## European Language Grid Services [↑](#contents)
 * [tokenizer_api](https://live.european-language-grid.eu/catalogue/tool-service/17480)
 * [icenlp_api](https://live.european-language-grid.eu/catalogue/tool-service/17684)
-* [icenlp_api](https://live.european-language-grid.eu/catalogue/tool-service/17682)
+* [icenlp_api (IceParser - Shallow Parser)](https://live.european-language-grid.eu/catalogue/tool-service/17682)
 * [pos_api](https://live.european-language-grid.eu/catalogue/tool-service/18084)
 * [ner_api](https://live.european-language-grid.eu/catalogue/tool-service/18082)
 * [far_abltagger_api](https://live.european-language-grid.eu/catalogue/tool-service/18026)
