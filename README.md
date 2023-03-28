@@ -24,6 +24,7 @@ If you notice a category or resource is missing or have suggestions on how to im
   * [Short paper describing the programme](https://arxiv.org/pdf/2003.09244.pdf), note that the programme has been postponed by a year compared to the original plan.
 * [Risamálheild: A Very Large Icelandic Text Corpus](https://www.aclweb.org/anthology/L18-1690.pdf)
   * Paper describing the Icelandic Gigaword Corpus, a tagged and lemmatized corpus containing over 10^9 tokens.
+* [A Wide-Coverage Context-Free Grammar for Icelandic and an Accompanying Parsing System](https://acl-bg.org/proceedings/2019/RANLP%202019/pdf/RANLP160.pdf)
 * Please send a pull request with additions to this list.
 
 ## Other resource collections [↑](#contents)
@@ -47,7 +48,8 @@ If you notice a category or resource is missing or have suggestions on how to im
   * Icelandic Conversational Speech
 * [Kennslurómur](http://hdl.handle.net/20.500.12537/171)
   * Icelandic lectures with audio and corresponding text.
-
+* [GreynirCorpus](https://github.com/mideind/GreynirCorpus)
+  * A large, parsed treebank of modern Icelandic text
 
 ## European Language Grid Services [↑](#contents)
 * [tokenizer_api](https://live.european-language-grid.eu/catalogue/tool-service/17480)
