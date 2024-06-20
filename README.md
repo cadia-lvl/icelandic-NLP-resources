@@ -2,7 +2,7 @@
 This is an list of known tools and resources developed specifically to do linguistic processing in Icelandic. It is intended to give readers a clear overview of the ever-growing arsenal of tools for working with Icelandic natural language data at a glance.
 
 This list is categorized by task to increase clarity. Due to that, some multi-functional tools and toolkits might appear more than once in the list.
-If you notice a category or resource is missing or have suggestions on how to improve this list, please open a pull request.
+If you notice a category or resource is missing or have suggestions on how to improve this list, please open a GitHub pull request. For those who do not know how to make pull requests, you can also create an issue with your GitHub account.
 
 ## Contents
 * [Notable papers](#notable-papers-and-reports-)
@@ -25,7 +25,7 @@ If you notice a category or resource is missing or have suggestions on how to im
 * [Risamálheild: A Very Large Icelandic Text Corpus](https://www.aclweb.org/anthology/L18-1690.pdf)
   * Paper describing the Icelandic Gigaword Corpus, a tagged and lemmatized corpus containing over 10^9 tokens.
 * [A Wide-Coverage Context-Free Grammar for Icelandic and an Accompanying Parsing System](https://acl-bg.org/proceedings/2019/RANLP%202019/pdf/RANLP160.pdf)
-* Please send a pull request with additions to this list.
+* Please send a pull request with additions to this list. If you create a Github issue with the following details of the paper: title, link/URL to PDF/book, and a short description then we can add it to the website/markdown file.
 
 ## Other resource collections [↑](#contents)
 * [CLARIN-IS](https://repository.clarin.is/repository/xmlui/)
@@ -130,4 +130,10 @@ If you notice a category or resource is missing or have suggestions on how to im
   * Scripts to prepare RÚV TV data for alignment and segmentation to make an ASR dataset
 * [Tiro Speech Core](https://github.com/tiro-is/tiro-speech-core)
 * [Tal](https://tal.ru.is)
+
+## Our CADIA-LVL works in progress
+You can also see our many works in progress at LVL itself if you follow us on our github: https://github.com/cadia-lvl \
+Facebook page: https://www.facebook.com/languageandvoice/
+
+[//]: # (And our website at Reykjavík University: https://lvl.ru.is/)
 
